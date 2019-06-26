@@ -1,5 +1,18 @@
 stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Haymarket" ]
-stop.push("Edinburgh Waverley")
+stops.push("Edinburgh Waverley")
+stops.insert(0,"Glasgow Queen St")
+stops.insert(3,"Polmont")
+stops.index("Linlithgow")
+stops.delete("Livingston")
+stops.delete_at(1)
+stops.count
+stops[2]
+# stops_at(2)
+stops.reverse!
+
+stops.each do |item|
+    puts item
+end
 
 # 1. Add `"Edinburgh Waverley"` to the end of the array
 # 2. Add `"Glasgow Queen St"` to the start of the array

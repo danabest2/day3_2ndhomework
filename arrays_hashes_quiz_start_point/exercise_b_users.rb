@@ -54,10 +54,13 @@ users = {
   }
 }
 
+p
+
 # 1. Get Jonathan's Twitter handle (i.e. the string `"jonnyt"`)
 # 2. Get Erik's hometown
 # 3. Get the array of Erik's lottery numbers
 # 4. Get the type of Avril's pet Monty
+users.[Avril 
 # 5. Get the smallest of Erik's lottery numbers
 # 6. Return an array of Avril's lottery numbers that are even
 # 7. Erik is one lottery number short! Add the number `7` to be included in his lottery numbers
